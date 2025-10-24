@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Vaso Térmico",
+    "price": 32000,
+    "category": "vaso",
+    "description": " Chicas Superpoderosas", 
+    "imageUrl": "/images/vaso1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Vaso Térmico",
+    "price": 35000,
+    "category": "vaso",
+    "description": " Estampado Moñoz",
+    "imageUrl": "/images/vaso2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Vaso Térmico",
+    "category": "vaso",
+    "price": 35000,
+    "description": " Estampado Teddy",
+    "imageUrl": "/images/vaso3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Mochila",
+    "price": 45000,
+    "category": "mochila",
+    "description": " Mochila de tela deportiva con tag",
+    "imageUrl": "/images/6.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Mochila",
+    "price": 59000,
+    "category": "mochila",
+    "description": " Mochila urbana con charm osito",
+    "imageUrl": "/images/5.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Mochila",
+    "category": "mochila",
+    "price": 60000,
+    "description": " Mochila multipocket snoopy",
+    "imageUrl": "/images/4.jpg"
+  }
+]
